@@ -1,0 +1,34 @@
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {  
+  id            String @id @default(uuid()) //PK com auto-increment
+  name          String
+  github_id     Int
+  avatar_url    String
+  login         String
+
+  // Nome da tabela a ser mapeada
+  @@map("users")
+
+  //Lista de mensagens (relacionamento 1 - N)
+  messages Message[]
+}
+
+model Message {
+  id            String @id @default(uuid()) //PK com auto-increment
+  text          String
+  created_at    DateTime @default(now())
+
+  //Relacionamento N - 1
+  user User @relation(fields: [user_id], references: [id])
+
+  @@map("messages")
+  user_id String //FK que referencia à entidade pai User
+}
