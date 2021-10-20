@@ -42,12 +42,14 @@ export function AuthProvider(props: AuthProvider){
       code: githubCode,
     })
 
-    const {token, user} = response.data
+    const {token, user} = response.data;
 
     //Salvando o token no local storage
-    localStorage.setItem('@dowhile:token', token)
+    localStorage.setItem('@dowhile:token', token);
 
-    setUser(user)
+    api.defaults.headers.common.authorization = `Bearer ${token}`;
+
+    setUser(user);
   }
 
   async function signOut(){
