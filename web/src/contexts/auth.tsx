@@ -42,7 +42,7 @@ export function AuthProvider(props: AuthProvider){
       code: githubCode,
     })
 
-    const {token, user} = response.data;
+    const {token, user} = response.data;    
 
     //Salvando o token no local storage
     localStorage.setItem('@dowhile:token', token);

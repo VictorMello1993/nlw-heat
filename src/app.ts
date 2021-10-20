@@ -31,7 +31,7 @@ app.get('/github', (request, response) => {
   response.redirect(`https://github.com/login/oauth/authorize?client_id=${process.env.GITHUB_CLIENT_ID}`);
 })
 
-//Rota de redirecionamento para a página de autenticação do GitHub (Callback URL)
+//Rota de redirecionamento para a página onde será apresentada um novo client Id do usuário autenticado
 app.get("/signin/callback", (request, response) => {
   //Obtendo o Client ID da URL
   const {code} = request.query;
