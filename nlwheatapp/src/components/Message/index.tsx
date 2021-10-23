@@ -4,7 +4,7 @@ import { View, Text } from 'react-native';
 import { UserPhoto } from '../UserPhoto';
 import { styles } from './styles';
 
-export type MessagemProps = {
+export type MessageProps = {
   id: string;
   text: string;
   user: {
@@ -14,7 +14,7 @@ export type MessagemProps = {
 }
 
 type Props = {
-  data: MessagemProps
+  data: MessageProps
 }
 
 export function Message({data}: Props) {
