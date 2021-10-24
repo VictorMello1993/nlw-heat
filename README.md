@@ -2,16 +2,15 @@
 
 
 
-<ul><a href="#earth_americas-visão-geral">Visão geral</a></ul>
-<ul><a href="#wrench-tecnologias">Tecnologias</a></ul>
-<ul style="list-style-type: none;"><a href="#triangular_flag_on_postpasso-a-passo">Passo-a-passo</a>
-  <li>
-    <ul><a href="#executando-back-end-api">Executando back-end (API)</a></ul>
-    <ul><a href="#oil_drum-banco-de-dados">Banco de dados</a></ul>
-    <ul><a href="#executando-front-end">Executando front-end</a></ul>
-    <ul><a href="#executando-mobile">Executando mobile</a></ul>
-  </li>
-</ul>
+  * <a href="#earth_americas-visão-geral">Visão geral</a>
+  * <a href="#wrench-tecnologias">Tecnologias</a>
+  * <a href="#triangular_flag_on_postpasso-a-passo">Passo-a-passo</a>
+    * <a href="#executando-back-end-api">Executando back-end (API)</a>
+    * <a href="#executando-back-end-api">NPM</a> 
+    * <a href="#executando-back-end-api">Yarn</a> 
+    * <a href="#oil_drum-banco-de-dados">Banco de dados</a></li>
+    * <a href="#executando-front-end">Executando front-end</a></li>
+    * <a href="#executando-mobile">Executando mobile</a>  
 
 <h2>:earth_americas: Visão geral</h2>
 <p>Aplicação construída durante o evento da NLW Heat. Se trata de uma tela de login dos usuários que irão participar do evento Do While 2021, que acontecerá nos dias 1 e 2 de dezembro, promovido pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>.</p>
