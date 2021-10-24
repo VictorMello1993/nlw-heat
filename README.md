@@ -6,8 +6,8 @@
   * <a href="#wrench-tecnologias">Tecnologias</a>
   * <a href="#triangular_flag_on_postpasso-a-passo">Passo-a-passo</a>
     * <a href="#executando-back-end-api">Executando back-end (API)</a>
-    * <a href="#executando-back-end-api">NPM</a> 
-    * <a href="#executando-back-end-api">Yarn</a> 
+    * <a href="#npm">NPM</a> 
+    * <a href="#yarn">Yarn</a> 
     * <a href="#oil_drum-banco-de-dados">Banco de dados</a></li>
     * <a href="#executando-front-end">Executando front-end</a></li>
     * <a href="#executando-mobile">Executando mobile</a>  
