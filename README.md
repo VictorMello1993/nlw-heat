@@ -75,3 +75,14 @@ O banco de dados utilizado no back-end foi o Prisma. Para executá-lo, digite o 
 ```
 yarn prisma studio
 ```
+
+<h3>Executando Front-end</h3>
+
+Navegue para a pasta ```web```, instale as dependências e execute a aplicação digitando os comandos abaixo:
+
+```
+yarn
+yarn dev
+```
+
+
