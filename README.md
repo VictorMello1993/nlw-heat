@@ -84,5 +84,10 @@ Navegue para a pasta ```web```, instale as dependências e execute a aplicação
 yarn
 yarn dev
 ```
+Caso prefira utilizar NPM, basta executar os comandos abaixo:
 
 
+```
+npm install
+npm run dev
+```
