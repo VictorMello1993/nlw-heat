@@ -40,7 +40,7 @@
 <h2>:triangular_flag_on_post:Passo-a-passo</h2>
 
 1 - Clone o repositório
-```
+```sh
 git clone https://github.com/VictorMello1993/nlw-heat.git
 ```
 
@@ -50,7 +50,7 @@ git clone https://github.com/VictorMello1993/nlw-heat.git
 
 <h3>NPM</h3>
 
-```
+```sh
 cd nlw-heat
 npm install
 npm run dev
@@ -60,7 +60,7 @@ npm run dev
 
 Ou, se preferir, caso tenha ```Yarn``` instalado na sua máquina, digite os seguintes comandos:
 
-```
+```sh
 cd nlw-heat
 yarn
 yarn dev
@@ -74,7 +74,7 @@ yarn dev
 
 O banco de dados utilizado no back-end foi o Prisma. Para executá-lo, digite o comando abaixo:
 
-```
+```sh
 yarn prisma studio
 ```
 
@@ -82,14 +82,14 @@ yarn prisma studio
 
 Navegue para a pasta ```web```, instale as dependências e execute a aplicação digitando os comandos abaixo:
 
-```
+```sh
 cd web
 yarn
 yarn dev
 ```
 Caso prefira utilizar NPM, basta executar os comandos abaixo:
 
-```
+```sh
 cd web
 npm install
 npm run dev
@@ -99,7 +99,7 @@ npm run dev
 
 1- Navegue para pasta ```nlwheatapp```, instale as dependências e execute a aplicação digitando os comandos abaixo
 
-```
+```sh
 cd nlwheatapp
 yarn # ou npm install
 expo start
