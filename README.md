@@ -4,10 +4,11 @@
 <p align="center">
   <a href="#earth_americas-visão-geral">Visão geral</a> •
   <a href="#wrench-tecnologias">Tecnologias</a> •
-  <a href="#triangular_flag_on_postcomeçando">Começando</a> •
-  <a href="#gearabrindo-a-api">Abrindo a API</a> •
+  <a href="#triangular_flag_on_postpasso-a-passo">Passo-a-passo</a> •
+  <a href="#executando-back-end-api">Executando back-end (API)</a> •
   <a href="#oil_drumbanco-de-dados">Banco de dados</a> •
-  <a href="#possíveis-melhorias">Possíveis melhorias</a>
+  <a href="#executando-front-end">Executando front-end</a> •
+  <a href="#executando-mobile">Executando mobile</a> •
 </p>
 
 #executando-back-end-api
