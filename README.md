@@ -97,7 +97,7 @@ npm run dev
 
 <h3>Executando Mobile</h3>
 
-1- Navegue para pasta ```nlwheatapp```, instale as dependências e execute a aplicação digitando os comandos abaixo
+Navegue para pasta ```nlwheatapp```, instale as dependências e execute a aplicação digitando os comandos abaixo
 
 ```sh
 cd nlwheatapp
