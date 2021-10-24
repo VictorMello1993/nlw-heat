@@ -51,6 +51,7 @@ git clone https://github.com/VictorMello1993/nlw-heat.git
 <h3>NPM</h3>
 
 ```
+cd nlw-heat
 npm install
 npm run dev
 ```
@@ -60,6 +61,7 @@ npm run dev
 Ou, se preferir, caso tenha ```Yarn``` instalado na sua máquina, digite os seguintes comandos:
 
 ```
+cd nlw-heat
 yarn
 yarn dev
 ```
@@ -81,13 +83,24 @@ yarn prisma studio
 Navegue para a pasta ```web```, instale as dependências e execute a aplicação digitando os comandos abaixo:
 
 ```
+cd web
 yarn
 yarn dev
 ```
 Caso prefira utilizar NPM, basta executar os comandos abaixo:
 
-
 ```
+cd web
 npm install
 npm run dev
+```
+
+<h3>Executando Mobile</h3>
+
+1- Navegue para pasta ```nlwheatapp```, instale as dependências e execute a aplicação digitando os comandos abaixo
+
+```
+cd nlwheatapp
+yarn # ou npm install
+expo start
 ```
