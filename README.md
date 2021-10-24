@@ -36,20 +36,6 @@
 
 </br>
 
-<h2>:triangular_flag_on_post: Começando</h2>
-1 - Clone o repositório
-```
-git clone https://github.com/VictorMello1993/nlw-heat.git
-```
-
-<h3>Back-end</h3>
-2 - A partir da pasta nlw-heat, instale as dependências do projeto e inicie o servidor digitando os seguintes comandos abaixo:
-<h3>NPM</h3>
-```sh
-   npm install
-   npm run dev
-```
-
 <h3>Yarn</h3>
 Ou, se preferir, se tiver ```yarn``` instalado, executar os comandos abaixo para instalar as dependências e iniciar o servidor:
 ```sh
