@@ -4,7 +4,7 @@
 <p align="center">
   <a href="#earth_americas-visão-geral">Visão geral</a> •
   <a href="#wrench-tecnologias">Tecnologias</a> •
-  <a href="#triangular_flag_on_postcomeçando">Começando</a> •  
+  <a href="#triangular_flag_on_postpasso-a-passo">Começando</a> •  
 </p>
 
 <h2>:earth_americas: Visão geral</h2>
