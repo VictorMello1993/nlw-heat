@@ -2,10 +2,14 @@
 
 
 <p align="center">
-  <a href="#earth_americas-visão-geral">Visão geral</a> •
-  <a href="#wrench-tecnologias">Tecnologias</a> •
-  <a href="#triangular_flag_on_postpasso-a-passo">Passo-a-passo</a> •  
+  <a href="#earth_americas-visão-geral">Visão geral</a> 
+  <a href="#wrench-tecnologias">Tecnologias</a> 
+  <ul><a href="#triangular_flag_on_postpasso-a-passo">Passo-a-passo</a> 
+    <li><a href="#triangular_flag_on_postpasso-a-passo">Passo-a-passo</a> </li>
+  </ul>
 </p>
+
+#executando-back-end-api
 
 <h2>:earth_americas: Visão geral</h2>
 <p>Aplicação construída durante o evento da NLW Heat. Se trata de uma tela de login dos usuários que irão participar do evento Do While 2021, que acontecerá nos dias 1 e 2 de dezembro, promovido pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>.</p>
