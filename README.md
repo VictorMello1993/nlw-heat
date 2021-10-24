@@ -105,4 +105,4 @@ yarn # ou npm install
 expo start
 ```
 
-Você poderá utilizar um emulador Android ou IOS instalado na sua máquina, ou até mesmo utilizar o próprio dispositivo físico. Neste caso, basta instalar aplicativo Expo Go da Play Store (Android) ou App Store (IOS) e scanear QR Code que é exibido na tela após executar Expo no terminal.
+Você poderá utilizar um emulador Android ou IOS instalado na sua máquina, ou até mesmo utilizar o próprio dispositivo físico. Neste caso, basta instalar aplicativo Expo Go na Play Store (Android) ou App Store (IOS), abrí-lo e scanear QR Code que é exibido na tela após executar Expo no terminal.
