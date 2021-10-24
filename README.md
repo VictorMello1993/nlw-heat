@@ -36,9 +36,33 @@
 
 </br>
 
-<h2>:triangular_flag_on_post:Começando</h2>
+<h2>:triangular_flag_on_post:Passo-a-passo</h2>
 
 1 - Clone o repositório
 ```
 git clone https://github.com/VictorMello1993/nlw-heat.git
 ```
+
+<h3>Executando back-end (API)</h3>
+
+2 - A partir da pasta ```nlw-heat```, instale as dependências do projeto e inicie o servidor digitando os seguintes comandos:
+
+<h3>NPM</h3>
+
+```
+npm install
+npm run dev
+```
+
+<h3>Yarn</h3>
+
+Ou, se preferir, caso tenha ```Yarn``` instalado na sua máquina, digite os seguintes comandos:
+
+```
+yarn
+yarn dev
+```
+
+3 - Para testar a API, segue o botão abaixo contendo todos os endpoints da aplicação:
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=NLW%20Heat&uri=https%3A%2F%2Fraw.githubusercontent.com%2FVictorMello1993%2Fnlw-heat%2Fmain%2Fapi.json)
