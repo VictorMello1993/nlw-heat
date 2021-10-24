@@ -1,7 +1,5 @@
 ![Screenshot_1](https://user-images.githubusercontent.com/35710766/138612674-eb691b53-0719-49f1-a557-572dc8d7a7e8.png)
 
-
-
   * <a href="#earth_americas-visão-geral">Visão geral</a>
   * <a href="#wrench-tecnologias">Tecnologias</a>
   * <a href="#triangular_flag_on_postpasso-a-passo">Passo-a-passo</a>
