@@ -6,7 +6,7 @@
   <a href="#wrench-tecnologias">Tecnologias</a> •
   <a href="#triangular_flag_on_postpasso-a-passo">Passo-a-passo</a> •
   <a href="#executando-back-end-api">Executando back-end (API)</a> •
-  <a href="#oil_drumbanco-de-dados">Banco de dados</a> •
+  <a href="#oil_drum-banco-de-dados">Banco de dados</a> •
   <a href="#executando-front-end">Executando front-end</a> •
   <a href="#executando-mobile">Executando mobile</a> •
 </p>
