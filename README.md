@@ -23,6 +23,7 @@
   <li><a href="https://www.typescriptlang.org/">Typescript</a></li>  
   <li><a href="https://www.npmjs.com/package/socket.io-client">socket.io-client</a></li>
   <li><a href="https://axios-http.com/docs/intro">Axios</a></li>  
+  <li><a href="https://www.prisma.io/">Prisma</a></li>    
 </ul>
 
 <h3>:iphone: Mobile</h3>
@@ -66,3 +67,11 @@ yarn dev
 3 - Para testar a API, segue o botão abaixo contendo todos os endpoints da aplicação:
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=NLW%20Heat&uri=https%3A%2F%2Fraw.githubusercontent.com%2FVictorMello1993%2Fnlw-heat%2Fmain%2Fapi.json)
+
+<h3>:oil_drum: Banco de dados</h3>
+
+O banco de dados utilizado no back-end foi o Prisma. Para executá-lo, digite o comando abaixo:
+
+```
+yarn prisma studio
+```
