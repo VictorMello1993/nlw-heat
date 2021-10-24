@@ -35,15 +35,3 @@
 </ul>
 
 </br>
-
-<h3>Yarn</h3>
-Ou, se preferir, se tiver ```yarn``` instalado, executar os comandos abaixo para instalar as dependências e iniciar o servidor:
-```sh
-   yarn
-   yarn dev
-```
-
-
-
-
-
