@@ -47,7 +47,7 @@ export function MessageList() {
 
   return (
     <div className="messageListWrapper">
-      <img src={logoImg} alt="DoWhile 2021" />
+      <img src={logoImg} alt="DoWhile 2021" className={styles.logoImage}/>
       <ul className={styles.messageList}>
         {messages.map(msg => {
           return (
@@ -55,12 +55,12 @@ export function MessageList() {
               <p className={styles.messageContent}>{msg.text}</p>
               <div className={styles.messageUser}>
                 <div className={styles.userImage}>
-                  <img src={msg.user.avatar_url} alt={msg.user.name}></img>
+                  <img src={msg.user.avatar_url} alt={msg.user.name}/>
                 </div>
                 <span>{msg.user.name}</span>
               </div>
             </li>
-          )
+          );
         })}
       </ul>
     </div>
