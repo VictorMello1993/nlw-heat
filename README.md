@@ -27,7 +27,7 @@
   <li><a href="https://vitejs.dev/">Vite</a></li>
 </ul>
 
-<h3>:gear: Backend</h3>
+<h3>:gear: Back-end</h3>
 <ul>
   <li><a href="https://nodejs.org/en/">NodeJs</a></li>
   <li><a href="https://www.typescriptlang.org/">Typescript</a></li>  
